@@ -1,0 +1,25 @@
+{
+  "name": "repo_readme_generator",
+  "version": "1.0.0",
+  "description": "Command line interface to create a readme file",
+  "main": "index.js",
+  "scripts": {
+    "test": "cli markdown"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafi2011/Repo_readMe_Generator.git"
+  },
+  "keywords": [
+    "command",
+    "line",
+    "interface",
+    "markdown"
+  ],
+  "author": "rnessa2011@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafi2011/Repo_readMe_Generator/issues"
+  },
+  "homepage": "https://github.com/rafi2011/Repo_readMe_Generator#readme"
+}
