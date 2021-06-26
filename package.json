@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/rafi2011/Repo_readMe_Generator/issues"
   },
-  "homepage": "https://github.com/rafi2011/Repo_readMe_Generator#readme"
+  "homepage": "https://github.com/rafi2011/Repo_readMe_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
 }

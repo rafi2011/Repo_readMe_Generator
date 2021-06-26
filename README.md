@@ -1,2 +1,17 @@
-# Repo_readMe_Generator
-Command line interface to create a readme file
+# redme
+#Description
+readme
+
+#usage instructions
+cli
+
+#test instruction
+cli
+
+#questions
+here is my email: rnessa@gmail
+
+#github username
+github username: repo
+
+
